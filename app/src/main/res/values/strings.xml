@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Kalkiyin Ponniyin Selvan Tamil</string>
+
+    <string-array name="Chapters_Name">
+        <item> Chapter 1</item>
+        <item>Chapter 2  </item>
+        <item> Chapter 3</item>
+        <item> Chapter 4</item>
+        <item> Chapter 5</item>
+        <item>Chapter 6 </item>
+        <item> Chapter 7 </item>
+        <item>Chapter 8 </item>
+        <item>Chapter 9 </item>
+        <item>Chapter 10 </item>
+
+
+    </string-array>
+</resources>
